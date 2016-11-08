@@ -1,0 +1,22 @@
+#messageDiv {
+	
+	background-color: #0080ff;
+	width: 30%;
+	border: 1px dotted #e80000;
+	color: white;
+}
+
+.userLab {
+	
+	margin: 4%;
+}
+
+body {
+	background-image: url('https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg');
+	margin-left: 3%;
+}
+
+#messageInput
+{
+	width: 50%;	
+}
